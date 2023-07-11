@@ -2,7 +2,7 @@
 
 Esta semana teremos um único time.
 
-Cada pessoa deve criar uma pasta com seu nome e dentro criar pastas para cada exercício.
+Cada pessoa deve criar uma branch com seu nome, nela uma pasta com seu nome e dentro criar pastas para cada exercício.
 
 ## Sugestão de ação:
 - Crie uma `branch` com seu nome
